@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: nguye
+Build-Jdk: 11.0.12
+Implementation-Title: npn.devpro.shop16 Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: npn.devpro
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
